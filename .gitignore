@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+# Logs
+npm-debug.log*
+# Vite cache
+.vite/
+# Env files
+.env
